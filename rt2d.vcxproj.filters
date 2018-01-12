@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\noise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\resourcemanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\canvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\line.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\noise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\pointx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\resourcemanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\rt2dconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\rt2d\vectorx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Ddesktop\Desktop\jaar_2_cpp\rt2d_proj\dungyDougly_mazeGenTest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{18F54CF2-F6F7-39AF-87EB-BACA06903155}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C93FF1E5-C482-3C10-91E9-6EF04C22D0A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

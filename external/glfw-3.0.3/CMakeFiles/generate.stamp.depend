@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+D:/Ddesktop/Desktop/jaar_2_cpp/rt2d_proj/dungyDougly_mazeGenTest/external/glfw-3.0.3/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+D:/Ddesktop/Desktop/jaar_2_cpp/rt2d_proj/dungyDougly_mazeGenTest/external/glfw-3.0.3/docs/Doxyfile.in
+D:/Ddesktop/Desktop/jaar_2_cpp/rt2d_proj/dungyDougly_mazeGenTest/external/glfw-3.0.3/src/config.h.in
+D:/Ddesktop/Desktop/jaar_2_cpp/rt2d_proj/dungyDougly_mazeGenTest/external/glfw-3.0.3/src/glfwConfig.cmake.in
+D:/Ddesktop/Desktop/jaar_2_cpp/rt2d_proj/dungyDougly_mazeGenTest/external/glfw-3.0.3/src/glfwConfigVersion.cmake.in
